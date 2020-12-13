@@ -11,14 +11,14 @@ If you're looking for the process of getting a mapset ranked, see: [Quaver Ranki
 
 ## Mandatory
 
-**You must follow all the requirements listed in this section. Failing to meet all the requirements will not allow your map to receive ranked status.**
+**You must follow all the requirements listed in this section. Your map will not be allowed to receive ranked status if the requirements are not fulfilled.**
 
 ### Metadata
 
 The following pertains to metadata that your maps contain such as song artists, titles, and tags.
 
 * **The artist and title must be absolutely correct.**
-* **The artist and title must be romanized.** However, non-romanized characters are allowed to be used in source and tags.
+* **The artist and title must be romanized.** However, non-romanized characters are allowed to be used in the source and tags.
 * **The artist, title and source must not repeat in tags.** However, romanizing or translating the source in tags is encouraged, in case it's relevant.
 * **Tags must contain the genre of the song.**
 * **Every difficulty must have a difficulty name.**
@@ -39,7 +39,7 @@ The following requirements are for the individual maps themselves.
 
 * **Autoplay must be able to achieve a 100% (X-Grade) score.**
 * **The maps must not have overlapping notes.**
-* **All long note releases must have at least 36 milliseconds of space after them.** The value is derived from 2x of the Standard "Marvelous" timing window.
+* **All long note releases must have at least 36 milliseconds of space after them.** The value is derived from 2x the Standard "Marvelous" timing window.
 * **The maps cannot have more than 30 seconds of consecutive break time.**
 * **More than 75% of the length of the song must have notes to play.**
 * **At least one note must be placed in every column.**
@@ -81,7 +81,7 @@ The following descriptions are what each difficulty should typically look like. 
      * Usage of more long notes are suited for this difficulty, as players will typically be learning to play them in more frequent circumstances.
 
 * **Insane**
-     * Players at this level will be able to handle a wide variety of patterns at lower densities including but not limited to:
+     * Players at this level will be able to handle a wide variety of patterns at lower densities, including but not limited to:
           * Light Jacks
           * Complex Long Note Usage
           * Light Jumpstreams
@@ -109,7 +109,7 @@ Furthermore, **each game mode is treated separately.** If you are creating a map
 
 ## Guidelines
 
-The following are guidelines to consider when creating your mapset and submitting it for ranked status. **These are not mandatory and should be taken with a grain of salt.** Our intentions with this are to allow mappers to be creative with the types of maps they produce. As such, these guidelines are merely a way to increase your chances of getting your mapset ranked - although exceptions can be made.
+The following are guidelines to consider when creating your mapset and submitting it for ranked status. **These are not mandatory and should be taken with a grain of salt.** Our intentions with this are to allow mappers to be creative with the types of maps they produce. As such, these guidelines are merely a way to increase your chances of getting your mapset ranked—although exceptions can be made.
 
 * **The intensity of the map should generally be synced with the music.** If a song is relatively mellow, the map should reflect this and vice versa.
 * **Your map should generally make use of layering.** - Mapping to different instruments in the song will make your map reflect the music more.

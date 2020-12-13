@@ -14,22 +14,22 @@ There are various ways to import an MP3:
 
 ## Metadata
 
-Once you've imported a song into the editor, you will be prompted with a few text field to insert your song's metadata. Metadata is
+Once you've imported a song into the editor, you will be prompted with a few text fields to insert your song's metadata. Metadata is
 a way for the game and other players to know more about the song you're mapping.
 
 * **Artist** - Who the song is by.
 * **Title** - The name of the song.
 * **Creator Username** - Your username will typically go here.
 * **Difficulty Name** - The name of the current difficulty. This will be filled in differently for every difficulty in your set.
-* **Source** - Where the song comes from. Could be a game, movie/TV show, or an album...
-* **Tags** - This helps people search for your song. It's important to specify the genre of the song here as well.
+* **Source** - Where the song comes from. Could be a game, movie/TV show, album, etc.
+* **Tags** - This helps people search for your map. It's important to specify the genre of the song here as well.
 
 ## Timing Your Map
 
-We are almost ready to start placing notes down. But before we do that, we have to time the song now! I'd recommend going to
+We are almost ready to start placing notes down. But before we do that, we have to time the song! I'd recommend going to
 **Audio -> Metronome -> Enable** to help accurately tell whether or not your song is timed correctly.
 
-There are two terms you should be familiar with before you start timing a song. **BPM** and **offset**
+There are two terms you should be familiar with before you start timing a song. **BPM** and **Offset**.
 
 * **BPM** - Stands for Beats Per Minute. An even distribution of beats that a song follows. Notes in a map must be placed to the beat that the song follows.
 * **Offset** -  This positions the beats relative to the start of the MP3. It uses milliseconds. This allows you to ensure that the first beat of the song is lined up with the first sound, thus allowing everything else to be lined up as well.
@@ -38,7 +38,7 @@ There are two terms you should be familiar with before you start timing a song. 
 
 If you know the BPM of your song already or prefer to time the song yourself, you can skip this section. This tool is not 100%
 accurate, but it definitely helps to get an idea on what BPM your song is. Go to **Tools -> BPM Detector** to access the tool.
-A new window will appear, with a button labeled **Detect**. Click this button, and Quaver will try and find the accurate BPM
+A new window will appear, with a button labeled **Detect**. Click this button, and Quaver will try to find an accurate BPM
 for your song. (**Please keep in mind, if your song has multiple BPMs then this tool will most likely not work correctly as
 it will get confused with the different BPMs throughout the song**). Once it is finished, it will ask you to choose a position
 to set the offset to.
@@ -71,9 +71,9 @@ go to **Edit -> Apply Offset To Map** and then type in a value which will then s
 
 Finally, we can start mapping! We can use the **Composition Tools** at the bottom left to place down and select notes.
 
-* **Select** - Allows you to drag to select objects on the map, this allows you to manipulate those individual objects (such as deleting, and copying)
-* **Note** - Allows you to place down individual notes. With this selected, you can left click on the playfield and a note will be place in the position nearest to your cursor.
-Notes will be snapped to the grid
-* **Long Note** - Clicking and dragging with this tool allows you to create Long Notes. Also keep in mind, you can place normal notes with this tool as well.
+* **Select** - Allows you to click or drag to select objects on the map. This allows you to manipulate those individual objects (such as deleting or copying).
+* **Note** - Allows you to place down individual notes. With this selected, you can left click on the playfield and a note will be placed in the position nearest to your cursor.
+Notes will be snapped to the grid.
+* **Long Note** - Clicking and dragging with this tool allows you to create Long Notes. You can also place normal notes with this tool.
 
-With all of that said, you can now create basically any map. There are additional features you can mess around with, or take a look at the [Editor Functions](/docs/Editor/Editor_functions) guide to see what tools the editor provides that can benefit you.
+There are additional features you can mess around with, but now you should be able to make a map. Take a look at the [Editor Functions](/docs/Editor/Editor_functions) guide to see more tools the editor provides that can benefit you.

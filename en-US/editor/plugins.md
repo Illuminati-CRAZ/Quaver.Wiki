@@ -7,13 +7,13 @@ name: Plugins
 ## What are plugins?
 
 Plugins are your own customizable editor extensions that let you perform
-automated tasks very easily. They can be customized in functions, layout and
+certain tasks very easily. They can be customized in functions, layout and
 style, and let you do nearly everything the normal editor would let you do. They
 are written in the Lua language.
 
 ## Creating your own plugin
 
-Plugins are defined by a folder structure built up in following way:
+Plugins are defined by a folder structure built up in the following way:
 
 * Quaver/Plugins
     * YourPlugin

@@ -5,7 +5,7 @@ name: Ranking Process
 
 # Quaver Ranking Process
 
-This document outlines the process of getting a mapset ranked starting from uploading the set to getting it reviewed by our Ranking Supervisors.
+This document outlines the process of getting a mapset ranked, starting from uploading the set to getting it reviewed by our Ranking Supervisors.
 
 If you're looking for the criteria a mapset needs to follow in order to get ranked, see: [Quaver Ranking Criteria](/docs/Ranking/Criteria).
 
@@ -13,15 +13,15 @@ If you're looking for the criteria a mapset needs to follow in order to get rank
 
 Our goal with this ranking process is to provide an easy and streamlined approach to getting mapsets ranked. During this process, your maps will be reviewed for coherence with our [Ranking Criteria](/docs/Ranking/Criteria). Before submitting your set for rank, make sure it is following the criteria, as there are cooldown periods in place if your set is denied.
 
-If your mapset is denied for rank, it will be placed on a **7 day cooldown period** before you can submit it again.
+If your mapset is denied for rank, it will be placed on a **3 day cooldown period** before you can submit it again.
 
 ## Ranked Status Terminology
 
-There are multiple states that a map could possibly be in related to its process in getting it ranked. They are the following:
+There are multiple states that a map could possibly be in during the ranking process. They are the following:
 
 ### Unranked
 
-When you first upload a mapset, all of your maps will be placed in a state of Unranked. While in this state, your maps will not be eligible to compete for scores on global rankings, but they are still downloadable by the community.
+When you first upload a mapset, all of your maps are placed in the state of Unranked. While in this state, your maps are not eligible to compete for scores on global rankings, but they are still downloadable by the community.
 
 ### Pending
 
@@ -29,11 +29,11 @@ When you submit a mapset for ranking, it will be sent to a queue where our Ranki
 
 ### Denied
 
-If you've submitted your mapset, and it isn't eligible to be ranked, it will be placed in a state of Denied. If your set was denied, you will receive comments on it from our Ranking Supervisors about what needs to be changed. While your set is in this state, you will not be able to resubmit it for Pending status for another 3 days
+If you've submitted your mapset, and it isn't eligible to be ranked, it will be placed in the state of Denied. If your set is denied, you will receive comments on it from our Ranking Supervisors about what needs to be changed. After being put in this state, you will not be able to resubmit your mapset for Pending status for 3 days.
 
 ### Blacklisted
 
-Mapsets that are blacklisted are ones that will never be eligible for rank. Sets can get blacklisted if the creator shows no sign of improving their set after multiple denials or their mapset was never in an approaching rankable state to begin with.
+Mapsets that are blacklisted are ones that will never be eligible for rank. Sets can get blacklisted if the creator shows no sign of improving their set after multiple denials, or their mapset was never in an approaching rankable state to begin with.
 
 ### Ranked
 
@@ -41,7 +41,7 @@ If your mapset is deemed to be following our criteria, it will be placed in a st
 
 ## The Process
 
-This section outlines the process of getting a mapset ranked from A-Z starting with uploading the mapset itself.
+This section outlines the process of getting a mapset ranked, from A-Z starting with uploading the mapset itself.
 
 ### 1. Uploading The Mapset
 
@@ -53,17 +53,17 @@ After uploading your set, it's important to receive feedback on your set before 
 
 ### 3. Submitting For Rank
 
-Players are eligible to submit their own mapsets for ranked status when they feel it is ready. You can submit a set for ranked status by heading over to its page on the website while logged in and clicking the "Submit For Rank" button. This will send the mapset to a queue where our Ranking Supervisors will review it.
+Players are eligible to submit their own mapsets for ranked status when they feel they are ready. You can submit a set for ranked status by heading over to its page on the website while logged in and clicking the "Submit For Rank" button. This will send the mapset to a queue where our Ranking Supervisors will review it. You can see the queue [here](quavergame.com/mapsets/queue).
 
 ### 4. Ranking Supervisor Reviewal
 
 After submitting your set for rank, it will be placed in a queue for the Ranking Supervisor team to review.
 
-In order to get your set ranked, **you will need to get 2 votes from the Ranking Supervisors** that dictates if the set is eligible for rank.
+In order to get your set ranked, **you will need to get 2 votes from the Ranking Supervisors** that dictate if the set is eligible for rank.
 
-During this vote, **a Supervisor has the ability to veto a mapset from being ranked before it reaches 2 vote and are able place it in a denied state** if there are any issues with the set.
+During this vote, **a Supervisor has the ability to veto a mapset from being ranked before it reaches 2 votes and place it in a denied state** if there are any issues with the set.
 
-You can check the status of the vote for your set by going to its respective mapset page. Here will be displayed the amount of votes it has as well as the Supervisors who are nominating it for rank.
+You can check the status of the vote for your set by going to its respective mapset page. On that page will be displayed the amount of votes it has as well as the Supervisors who are nominating it for ranked.
 
 Once your mapset receives 2 positive votes, it will automatically be placed in a ranked state.
 
@@ -85,7 +85,7 @@ If the status of your mapset is on-hold, it has to be updated for it to automati
 
 ### 5d. Mapset Blacklisted
 
-Serious mapsets will rarely be blacklisted. If your set does reach this state, it means that it was deemed to be in a state where you aren't showing signs of improving the set after repeated denials or if it was never in an approaching rankable state to begin with.
+Serious mapsets will rarely be blacklisted. If your set does reach this state, it means that it was deemed to be in a state where you aren't showing signs of improving the set after repeated denials, or that it was never approaching a  rankable state to begin with.
 
 ### 5e. Mapset Ranked
 

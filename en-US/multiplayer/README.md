@@ -40,7 +40,7 @@ Upon being eliminated, you can still play, however your scoreboard rank will not
 
 If the health type is manual regeneration, dying will not eliminate you from the match, however if it is set to lives, it will if you run out.
 
-Quitting the match mid-game will also result in that player being eliminated.
+Quitting the match mid-game will also result in you being eliminated.
 
 **Note: You must have at least 3 players to start the match.**
 
@@ -60,12 +60,12 @@ Quaver also offers a lives system. With this activated, the player will have a c
 
 Quaver's multiplayer also offers a **ton** of filters to truly customize your multiplayer game. Filters will often solve your issues when it comes to restricting map selection to certain types of maps.
 
-Here are a few filters that is available:
+Here are a few filters that are available:
 
-* **Allowed Game Mode** - Only maps that are of these allowed game modes can be chosen.
-* **Difficulty Range** - You can set a minimum and maximum difficulty rating for selected maps.
+* **Allowed Game Mode** - Only maps that are of the allowed game modes can be chosen.
+* **Difficulty Range** - The minimum and maximum difficulty ratings for selected maps.
 * **Max Length** - The maximum song length allowed for selected maps.
-* **Long Note Percentage Range** - The long note percentage maps must have to be selected.
+* **Long Note Percentage Range** - The minimum and maximum long note percentages for selected maps.
 
 ## Free Mod & Free Rate
 

@@ -12,17 +12,18 @@ name: Editor Keybinds
 | Ctrl+E              | Export mapset                                      |
 | Ctrl+H              | Mirror selected hitobjects                         |
 | Ctrl+I              | Place new scroll velocity                          |
-| Ctrl+Plus/Minus     | Change the current playback speed (steps of 0.25x) |
+| Ctrl+Shift+I        | Place new timing point                             |
+| Ctrl+N              | Open new song dialog                               |
 | Ctrl+Q              | Open .qua                                          |
 | Ctrl+S              | Save                                               |
-| Ctrl+Shift+I        | Place new timing point                             |
 | Ctrl+U              | Upload mapset                                      |
-| Ctrl+Up/Down/Scroll | Change the current snap                            |
 | Ctrl+V              | Paste                                              |
 | Ctrl+W              | Open mapset folder                                 |
 | Ctrl+X              | Cut                                                |
 | Ctrl+Y              | Redo                                               |
 | Ctrl+Z              | Undo                                               |
+| Ctrl+Plus/Minus     | Change the current playback speed (steps of 0.25x) |
+| Ctrl+Up/Down/Scroll | Change the current snap                            |
 | Delete              | Remove all selected notes                          |
 | Escape              | Exit the editor                                    |
 | F1                  | Open metadata dialog                               |
